@@ -10,11 +10,3 @@ Horizontal ground shaking intensity during an earthquake varies with orientation
 $$
 \Delta\theta_{i,j}^k = f(s_i, s_j, E_k)
 $$
-
-## Setup & Installation
-
-1. Clone the private repository:
-   ```bash
-   git clone <your-private-repo-url>
-   cd earthquake-directionality-ml
-   ```
